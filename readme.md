@@ -4,17 +4,17 @@ This is a simple implementation of Conway's Game of Life written in the Ruby pro
 
 ## Synopsis
 
-Please note that much of the work here was based upon the [https://github.com/ofcan/game-of-life-ruby](ofcan / game-of-life-ruby) repository.
+Please note that much of the work here was based upon the [ofcan / game-of-life-ruby](https://github.com/ofcan/game-of-life-ruby) repository.
 
-You can find out more about the Game of Life on it's [http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life](Wikipedia entry).
+You can find out more about the Game of Life on it's [Wikipedia entry](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
-The [http://www.libgosu.org](Gosu 2D geme development library) was used to generate the graphical output, resulting in the final result shown here:
+The [Gosu 2D geme development library](http://www.libgosu.org) was used to generate the graphical output, resulting in the final result shown here:
 
 ![Game of Life in Ruby](game_of_life_screenshot.png)
 
 ## Rules of the game:
 
-The rules of the game are explained clearly in it's [http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life](Wikipedia entry). The relevent portion is quoted here:
+The rules of the game are explained clearly in it's [Wikipedia entry](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). The relevent portion is quoted here:
 
 > The universe of the Game of Life is an infinite two-dimensional orthogonal grid
 > of square cells, each of which is in one of two possible states, alive or dead.
@@ -59,4 +59,4 @@ rspec spec_game_of_life.rb
 
 ## License
 
-MIT License. Copyright 2015 Derek Barber (http://derekbarber.ca)
+MIT License. Copyright 2015 [Derek Barber](http://derekbarber.ca)
